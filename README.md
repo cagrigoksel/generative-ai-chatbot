@@ -1,15 +1,5 @@
 # 🤖 TechPoint: AI Destekli Teknoloji Asistanı
 
-### Github linki: "https://github.com/cagrigoksel/MTH-409-Chatbot-Projesi---Bican-Cagri-Goksel--090200352"
-
-## MTH-409 Chatbot Geliştirme Temelleri Term Project
-
-**Ders:** MTH-409 Chatbot Geliştirme Temelleri
-**Öğrenci Adı:** Bican Çağrı Göksel
-**Öğrenci No:** 090200352
-
----
-
 ## 📋 Proje Özeti
 
 Bu proje, **hibrit AI mimarisi** kullanarak gelişmiş bir teknoloji ürünleri chatbot sistemi geliştirmeyi amaçlamaktadır. Sistem, üç farklı büyük dil modelini (Google Gemini, Meta Llama, Alibaba Qwen) entegre ederek kullanıcıların teknolojik ürünler hakkında bilgi almasını, sepet işlemleri yapmasını ve ürün karşılaştırması yapmasını sağlar.
