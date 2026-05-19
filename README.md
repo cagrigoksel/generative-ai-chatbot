@@ -109,7 +109,7 @@ Bot: [İnternet araması] Fiyat, kamera, performans...
 ## 📁 Proje Yapısı
 
 ```
-MTH-409-Chatbot-Projesi/
+generative-ai-chatbot/
 ├── 📄 README.md              # Proje dokümantasyonu
 ├── ⚙️ config.yaml            # Sistem ayarları
 ├── 🚀 main.py                # Ana başlatıcı
@@ -149,5 +149,3 @@ python scripts/data_generator.py
 python scripts/evaluate_models.py
 ```
 
-
-*Bu proje MTH-409 dersi final ödevi kapsamında geliştirilmiştir.*
